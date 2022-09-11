@@ -1,0 +1,18 @@
+{
+  "name": "babel-generator-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhang Kai <dexbolg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.19.0",
+    "@babel/generator": "^7.19.0",
+    "@babel/parser": "^7.19.0",
+    "prettier": "^2.7.1"
+  }
+}
